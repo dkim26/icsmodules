@@ -1,0 +1,18 @@
+body{
+  background-color: cornsilk;
+}
+.uh{
+  color:darkgreen;
+}
+#navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#navbar li{
+  display: inline;
+}
+#navbar a{
+  margin-left: 250;
+  margin-right: 75px;
+}
